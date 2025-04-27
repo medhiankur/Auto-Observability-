@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-04-17T07:19:57.932971Z",
+    "query": "Remediation for anomaly in web-server: GET blog/tags/blog FAILED - 500",
+    "anomaly_type": "anomaly",
+    "service": "web-server",
+    "message": "GET blog/tags/blog FAILED - 500"
+  },
+  {
+    "timestamp": "2025-04-17T07:21:05.681117Z",
+    "query": "Remediation for anomaly in web-server: GET blog/tags/blog FAILED - 500",
+    "anomaly_type": "anomaly",
+    "service": "web-server",
+    "message": "GET blog/tags/blog FAILED - 500"
+  }
+]

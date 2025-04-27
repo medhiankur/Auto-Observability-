@@ -1,0 +1,20 @@
+{
+  "services": {
+    "web-server": {
+      "instances": 1,
+      "max_instances": 5
+    },
+    "database": {
+      "instances": 1,
+      "max_instances": 3
+    },
+    "auth-service": {
+      "instances": 1,
+      "max_instances": 3
+    },
+    "payment-service": {
+      "instances": 1,
+      "max_instances": 3
+    }
+  }
+}

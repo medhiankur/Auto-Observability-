@@ -1,0 +1,15 @@
+httpx==0.28.1
+fastapi==0.115.9
+uvicorn==0.34.0
+python-dotenv==1.1.0
+watchdog>=4.0.0
+langchain>=0.1.13
+transformers>=4.40.0
+scikit-learn==1.6.1
+pyod==2.0.4
+chromadb>=0.4.24
+sentence-transformers>=2.6.1
+pandas==2.2.3
+faker
+numpy==2.2.4
+torch==2.6.0
